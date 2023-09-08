@@ -20,11 +20,11 @@ const About = () => {
                   LET ME <span className="yellow"> INTRODUCE </span> MYSELF
                 </h1>
                 <p className="home-about-body">
-                 Hi, my name is <span className="yellow">Md Abu Bakkar Siddiqe Sajib </span>
-                 and I'm from <span className="yellow"> Dhaka, Bangladesh.</span>
+                 Hi, my name is <span className="yellow">Chloe Fox </span>
+                 and I'm from <span className="yellow"> Honesdale, PA</span>
                 <br />
                 <br />
-                I recently graduated with a Bachelor's degree in Computer Science and Engineering in 2021.
+                I am graduating from Arcadia in May of 2024 with a Bachelor of Science in Computer Science.
                 <br />
                 <br />
                   As a
@@ -38,11 +38,11 @@ const About = () => {
                   <br />
                   <br />
                   I have a passion for working
-                  with <b className="yellow">Node.js, MongoDB,</b> and
+                  in the field <b className="yellow">cybersecurity,</b> as well as
                   <i>
                     <b className="yellow">
                       {" "}
-                      modern Javascript libraries and frameworks
+                      software development.
                     </b>
                   </i>
                   &nbsp; like
@@ -51,10 +51,10 @@ const About = () => {
                   </i>
                   <br />
                   <br />
-                  I am also interested in building new
+                  I am also interested in researching new
                   <i>
-                    <b className="yellow"> Web Technologies and Products, </b>
-                    as well as exploring areas related to
+                    <b className="yellow"> exploits </b>
+                    in the area of ioT technology and
                     <b className="yellow"> Artificial Intelligence.</b>
                   </i>
                   <br />
